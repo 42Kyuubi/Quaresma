@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ping": "^0.4.4",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "@types/ping": "^0.4.4",
+    "@types/ws": "^8.18.1"
+  }
+}
